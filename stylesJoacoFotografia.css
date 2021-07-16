@@ -666,6 +666,12 @@
  .about >article{
      margin-bottom: 2rem;
  }
+ .btn-inicio{
+     top: 0;
+     width: 240px;
+     background-color: var(--first-alpha-color);
+     
+ }
  .contact-card{
      margin: 1rem auto;
      padding: 1rem;
@@ -685,6 +691,14 @@
  .contact-card > small{
      margin-top: -1rem;
  }
+ .contact-card > small a{
+    margin-top: -1rem;
+    text-decoration: none;
+    color: var(--text-color);
+}
+.contact-card > small a:hover{
+    color: var(--first-color);
+}
  .footer{
      margin-bottom: var(--header-height);
      padding: .5rem;
@@ -866,6 +880,10 @@
      .contact-cards{
          grid-template-columns: repeat(3, 30%);
         justify-content: space-between;
+        }
+        .contact-card-Redes{
+            grid-template-columns: repeat(2, 45%);
+
         }
      .footer{
          margin-bottom: 0;
