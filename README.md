@@ -2,4 +2,4 @@
 
 Portfolio profesional para fotógrafo.
 
-![](https://github.com/GonzaloFacundoLedesma/JoacoFotografo/tree/main/assets/Joaco.jpg)
+![](https://github.com/GonzaloFacundoLedesma/JoacoFotografo/blob/main/assets/Joaco.jpg)
